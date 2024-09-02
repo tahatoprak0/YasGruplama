@@ -4,3 +4,4 @@
 
 <img src="https://raw.githubusercontent.com/tahatoprak0/YasGruplama/master/yassiniflandirma.JPG" width="auto">
 <h2>Project Gif:</h2>
+<img src="./download.gif" width="50%" height="50%"/>
