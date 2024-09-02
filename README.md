@@ -2,4 +2,5 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="![yassiniflandirma](https://github.com/user-attachments/assets/875c99f7-d123-400a-a0b8-928a13b45ce2)" width="400" height="400/">
+<img src="https://raw.githubusercontent.com/tahatoprak0/YasGruplama/master/yassiniflandirma.JPG" width="auto">
+<h2>Project Gif:</h2>
